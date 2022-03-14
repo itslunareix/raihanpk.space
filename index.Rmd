@@ -1,0 +1,19 @@
+---
+title: "Raihan Putra Kirana"
+image: "avatar.png"
+links:
+  - label: Blog
+    url: "https://raihanpk.com/"
+  - label: Email
+    url: "mailto:me@raihanpk.com"
+  - label: Github
+    url: "https://github.com/itslunareix"
+  - label: Instagram
+    url: "https://instagram.com/itsraihanpk"
+  - label: Twitter
+    url: "https://twitter.com/itslunareix"
+output:
+  postcards::jolla
+---
+ 
+just a normal teen who likes sleep.
